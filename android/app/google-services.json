@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889716849306",
+    "project_id": "clean-champ-c754a",
+    "storage_bucket": "clean-champ-c754a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889716849306:android:43055c4f0efd0923a47d23",
+        "android_client_info": {
+          "package_name": "com.example.clean_champ"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIP4WDoldfVNWQdweB0r313i8taBWzXWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
